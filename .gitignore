@@ -1,3 +1,12 @@
+.DS_Store
+.pem
+.p12
+.key
+.zip
+.rar
+.tar
+.tar.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
