@@ -4,9 +4,10 @@
 
 ## Requisitos
 
-Python >= 3.9.16
-Sistema Linux/Unix
-Git
+ - Python >= 3.9.16
+ - pip
+ - System Linux/Unix
+ - Git
 
 ### Dependencias adicionales
 
