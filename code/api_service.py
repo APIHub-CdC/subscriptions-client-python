@@ -24,7 +24,7 @@ class ApiSubscriptionsService:
     :Copyright: 2023 Círculo de Crédito
     """
 
-    API_URL         = "https://circulodecredito-dev.apigee.net/v1/subscriptions"
+    API_URL         = "https://services.circulodecredito.com.mx/v1/subscriptions"
     
     USERNAME        = "username"
     PASSWORD        = "password"
